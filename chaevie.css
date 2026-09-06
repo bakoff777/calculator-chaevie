@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.back {
+    position: relative;
+    width: 500px;
+    height: 800px;
+    background: #360160;
+    margin-top: 85px;
+    margin-left: 102px;
+    margin-right: 503px;
+    margin-bottom: 85px;
+}
+
+.kalkulator {
+    position: absolute;
+    width: 380px;
+    height: 94px;
+    margin-left: 60px;
+    margin-top: 34px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 90.3%;
+    color: #FFDC40;
+}
+
+.summa {
+    position: absolute;
+    width: 380px;
+    height: 23px;
+    margin-left: 60px;
+    margin-top: 170px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.summa1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: 200px;
+    background: #FFFFFF;
+    border: 2px solid #A4CEF4;
+    border-radius: 5px;
+}
+
+.ka4estvo {
+    position: absolute;
+    width: 380px;
+    height: 23px;
+    margin-left: 60px;
+    margin-top: 271px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.ka4estvo1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: 301px;
+    background: #FFFFFF;
+    border: 2px solid #A4CEF4;
+    border-radius: 5px;
+}
+
+.ludi {
+    position: absolute;
+    width: 380px;
+    height: 23px;
+    margin-left: 60px;
+    margin-top: 371px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.ludi1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 380px;
+    height: 50px;
+    margin-left: 60px;
+    margin-top: 401px;
+    background: #FFFFFF;
+    border: 2px solid #A4CEF4;
+    border-radius: 5px;
+}
+
+.pos4itat {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    margin-left: 60px;
+    margin-top: 480px;
+    background: #FFDC40;
+    border-radius: 15px;
+}
+
+.pos {
+    position: absolute;
+    width: 128px;
+    height: 22px;
+    margin-left: 86px;
+    margin-top: 499px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.sbrosit {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    left: 260px;
+    top: 480px;
+    background: #7C7A7A;
+    border-radius: 15px;
+}
+
+.sbr {
+    position: absolute;
+    width: 114px;
+    height: 22px;
+    margin-left: 293px;
+    margin-top: 499px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.chaevie {
+    position: absolute;
+    width: 147px;
+    height: 29px;
+    margin-left: 60px;
+    margin-top: 607px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.d {
+    position: absolute;
+    width: 112px;
+    height: 21px;
+    margin-left: 240px;
+    margin-top: 614px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: right;
+    color: #B6B6B6;
+}
+
+.vsego {
+    position: absolute;
+    width: 147px;
+    height: 29px;
+    margin-left: 60px;
+    margin-top: 666px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.dd {
+    position: absolute;
+    width: 112px;
+    height: 21px;
+    margin-left: 240px;
+    margin-top: 673px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: right;
+    color: #B6B6B6;
+}
